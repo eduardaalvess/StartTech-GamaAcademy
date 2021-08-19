@@ -2,8 +2,8 @@
 
 ###### Repositório com a finalidade de facilitar minha vida já que eu não faço isso.
 
-* Repositorio JavaScript - Módulo 4 e 5.
-* Repositorio TypeScript - Módulo 6.
+* Repositorio JavaScript - Módulo 4 e 5 -> [Link](https://github.com/eduardaalvess/RepositorioJavaScript)
+* Repositorio TypeScript - Módulo 6 -> [Link](https://github.com/eduardaalvess/RepositorioTypeScript)
 * Repositório React - Módulo 7.
 * Repositório GraphQL - Módulo 8.
 * Repositório NodeJS - Módulo 9, 10 e 11.
